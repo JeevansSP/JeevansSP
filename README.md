@@ -7,6 +7,6 @@
       life-cycle of a given data-product, implemented distributed caching with cache update feature for scalability,
       all in an agile environment.
 - 💞️ I’m looking to collaborate on python based open source projects, literally any project i just want to make my mark in the open-source world :)
-- 📫 How to reach me: <a href="https://www.google.com/" target="_blank">Google</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/jeevan-s-p-a905a116a/" target="_blank">Linkedin</a>
 
 
